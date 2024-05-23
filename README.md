@@ -6,17 +6,18 @@ Simple web-app to predict a dev's salary based on
  2. Level of Education
 
 ## Requirements
-* Streamlit, comes with
-	* pandas and numpy
-* streamlit-option-menu
+* Colorcet
 * Matplotlib
-* Scikit-learn
+* Numpy
+* Pandas
+* Streamlit
+* streamlit-option-menu
 
 ## Installation Tutorial
 * Create a virtual environment
-> python -m venv venv
+> py -3 -m venv venv
 * Activate the .env
-> venv/Script/activate
+> venv\Scripts\activate
 > pip install -r /path/to/requirements.txt
 > ipython kernel install --user --name=insert_kernel_name
 * Open Jupyter and Streamlit on different Powershells
@@ -25,6 +26,9 @@ Simple web-app to predict a dev's salary based on
 
 * Powershell Workround to executing venv
 >Set-ExecutionPolicy Unrestricted -Force
+
+* Exporting requirements.txt
+>pipreqs . --force
 
   ## Acknowledgement
 
