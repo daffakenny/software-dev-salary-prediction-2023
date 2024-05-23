@@ -15,10 +15,14 @@ Simple web-app to predict a dev's salary based on
 ## Installation Tutorial
 * Create a virtual environment
 > python -m venv venv
+
 * Activate the .env
 > venv/Script/activate
+
 > pip install -r /path/to/requirements.txt
+
 > ipython kernel install --user --name=insert_kernel_name
+
 * Open Jupyter and Streamlit on different Powershells
 >jupyter notebook
 >streamlit run app.py
