@@ -1,0 +1,6 @@
+streamlit==1.31.1
+scikit-learn==1.3.2
+matplotlib
+pickle
+pandas
+colorcet==3.1.0
