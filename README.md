@@ -15,7 +15,6 @@ Simple web-app to predict a dev's salary based on
 
 ## Installation Tutorial
 * Create a virtual environment
-<<<<<<< HEAD
 > py -3 -m venv venv
 * Activate the .env
 > venv\Scripts\activate
@@ -25,7 +24,6 @@ Simple web-app to predict a dev's salary based on
 * Activate the .env
 > venv/Script/activate
 
->>>>>>> 1461e5811241787d88d4d25898b6bd10eebbe564
 > pip install -r /path/to/requirements.txt
 
 > ipython kernel install --user --name=insert_kernel_name
