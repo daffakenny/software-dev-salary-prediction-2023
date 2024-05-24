@@ -17,11 +17,6 @@ Simple web-app to predict a dev's salary based on
 * Create a virtual environment
 > py -3 -m venv venv
 * Activate the .env
-> venv\Scripts\activate
-=======
-> python -m venv venv
-
-* Activate the .env
 > venv/Script/activate
 
 > pip install -r /path/to/requirements.txt
